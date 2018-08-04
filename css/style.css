@@ -1,5 +1,5 @@
 body{
-  background-color: #B39DDB;
+  /* background-color: #B39DDB; */
   font-family: sans-serif;
 }
 h1{
@@ -28,6 +28,10 @@ h2{
 .projects{
   float: left;
   width: 440px;
+}
+p.projects{
+  font-size: 18px;
+  text-align: justify;
 }
 .about {
   clear: both;
