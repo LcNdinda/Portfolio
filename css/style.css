@@ -31,10 +31,12 @@ h2{
   float: left;
   width: 440px;
 }
+
 p.projects{
   font-size: 18px;
   text-align: justify;
 }
+
 .about {
   clear: both;
 }
@@ -43,6 +45,49 @@ h4{
   text-decoration: underline;
 
 }
+
 hr{
-  color: 2px solid #512DA8;
+  color: 5px solid #512DA8;
+}
+
+/* About me */
+h3{
+  text-decoration: underline;
+  color: #512DA8;
+}
+.Personal{
+    margin-left: 5%;
+}
+.title{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.Education{
+    margin-left: 5%;
+}
+.year{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.Work{
+    margin-left: 5%;
+}
+.work{
+  text-align: justify;
+}
+
+.Skills{
+    margin-left: 5%;
+}
+
+.Talents{
+  margin-left: 5%;
+}
+
+.program{
+  margin-left: 5%;
 }
