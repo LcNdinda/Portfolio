@@ -2,6 +2,7 @@ body{
   /* background-color: #B39DDB; */
   font-family: sans-serif;
 }
+/* profile header */
 h1{
   color: #512DA8;
   text-align: center;
@@ -18,6 +19,7 @@ h1{
   padding: 3px;
 
 }
+/*projects worked on */
 h2{
   color: #512DA8;
   text-align: center;
