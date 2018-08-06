@@ -96,3 +96,9 @@ p.program{
   font-size: 15px;
 
 }
+@media screen and (min-width: 480px) {
+    body {
+        background-color: #EDE7F6;
+        color: black;
+    }
+}
